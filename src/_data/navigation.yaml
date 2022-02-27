@@ -1,10 +1,14 @@
 ---
 items:
-  - text: Menu One
+  - title: Meet Abby
     url: "#"
-  - text: Menu Two
+    desc: Over 10 years of coaching and 20 years of competing I have built a unique approach and mindset that I want to share with you... 
+  - title: Train Together
     url: "#"
-  - text: Menu Three
+    desc: Running is a means of achieving a goal. Let me help you focus your approach, and shatter that goal...
+  - title: Testimonials
     url: "#"
-  - text: Blog
+    desc: Trust is earned, meet some of the people I have worked with and see if their experiences reflect something you see in yourself...
+  - title: Free Stuff!
     url: "/blog"
+    desc: Not everyone is looking for individualized help, take a look through my "Fundamentals" course and get that spark you were missing...
