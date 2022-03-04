@@ -7,8 +7,8 @@ items:
     url: "#"
     desc: Running is a means of achieving a goal. Let me help you focus your approach, and shatter that goal...
   - title: Testimonials
-    url: "#"
+    url: "/Testimonials"
     desc: Trust is earned, meet some of the people I have worked with and see if their experiences reflect something you see in yourself...
   - title: Free Stuff!
-    url: "/blog"
+    url: "/TheFundamentals"
     desc: Not everyone is looking for individualized help, take a look through my "Fundamentals" course and get that spark you were missing...
