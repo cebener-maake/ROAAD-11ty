@@ -31,9 +31,24 @@ collections:
         options: ["Tags", "created", "from", "config.yml"]
   - label: "Settings"
     name: "settings"
-    editor:
-      preview: false
+    
     files:
+      - label: "Testimonials"
+        name: "testimonials"
+        file: "src/_data/testimonials.yaml"
+        fields: 
+          - label: individual testimonials
+            name: items
+            widget: list
+            collapsed: false
+            fields:
+              - { label: Full Name, name: name, widget: string }
+              - { label: Description, name: desc, widget: string }
+              - { label: Quote, name: quote, widget: string }
+              - { label: Headshot, name: image, widget: string }
+              - { label: Instagram Link, name: instagram, widget: string }
+              - { label: Twitter Link, name: twitter, widget: string }
+              - { label: LinkedIn Link, name: linkedin, widget: string }
       - label: "Navigation"
         name: "items"
         file: "src/_data/navigation.yaml"
@@ -44,20 +59,10 @@ collections:
             allow_add: false
             collapsed: false
             fields:
-              - { label: Title, name: text, widget: string }
-              - { label: URL, name: url, widget: string }
-      - label: "Quick Links"
-        name: "links"
-        file: "src/_data/quicklinks.yaml"
-        fields:
-          - label: Nav Items
-            name: links
-            widget: list
-            collapsed: false
-            fields:
               - { label: Title, name: title, widget: string }
               - { label: URL, name: url, widget: string }
               - { label: Description, name: desc, widget: string }
+      
       - label: "Meta Settings"
         name: "settings"
         file: "src/_data/settings.yaml"

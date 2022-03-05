@@ -2,40 +2,24 @@
 layout: TrainTogether
 ---
 
-<section class="mt-15">
-    {% set postslist = collections.post %}
+<section class="mt-15 my-8">
 
-    {% for post in postslist | reverse %}
-        <article class="my-8">
             <h2 class="font-bold text-3xl text-gray-900 mb-2">
-                <a href="{{ post.url | url }}">
-                    {% if post.data.title %}
-                        {{ post.data.title }}
-                    {% else %}
-                        Untitled
-                    {% endif %}
-                </a>
+               This is me
             </h2>
             <p class="text-base leading-6 text-gray-500 mb-3">
-                <time>
-                    {{ post.date | readableDate }}
-                    by
-                    <a>{{ post.data.author }}</a>
-
-                </time>
+                these are the words
             </p>
-            {% if post.data.description %}
-                <p class="text-lg text-gray-500 mb-3">
-                    {{ post.data.description }}
-                </p>
-            {% endif %}
-
+           
+            <p class="text-lg text-gray-500 mb-3">
+                this is more text
+            </p>
+            
             <p>
-                <a href="{{ post.url | url }}" class="text-indigo-500 font-bold text-lg">
-                    Read more →
+                <a href="/Testimonials" class="text-indigo-500 font-bold text-lg">
+                    Still not sure? Meet some of the great people I've worked with. →
                 </a>
             </p>
 
-        </article>
-    {% endfor %}
+   
 </section>
