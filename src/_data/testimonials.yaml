@@ -1,31 +1,62 @@
----
 items:
-  - name: Lizzie Hess
-    desc: College Athlete 
-    quote: Coach Ebener was one of the best coaches that I ever had. With her, she helped me become a much better athlete. With tough love and with a diverse training regiment, she always kept me on my toes. She didn’t just make me a better athlete, though- she helped me become a better person and was ALWAYS there for me whether it was about our season or about personal  issues I might have been going through. Coach Ebener is a person that you’ll cherish forever as a coach AND as a friend.
-    image: "https://i.ibb.co/R6WQhYj/Mask-Group.png"
-    instagram:
-    twitter:
-    linkedin: 
-  - name: Mary Liesse
-    desc: Marathoner 
-    quote:  With her, she helped me become a much better athlete. She didn’t just make me a better athlete, though- she helped me become a better person and was ALWAYS there for me whether it was about our season or about personal  issues I might have been going through. Coach Ebener is a person that you’ll cherish forever as a coach AND as a friend.
-    image: "https://i.ibb.co/R6WQhYj/Mask-Group.png"
-    instagram:
-    twitter:
-    linkedin:
-  - name: Lizzie Hess
-    desc: College Athlete 
-    quote: Coach Ebener was one of the best coaches that I ever had. With her, she helped me become a much better athlete. With tough love and with a diverse training regiment, she always kept me on my toes. She didn’t just make me a better athlete, though- she helped me become a better person and was ALWAYS there for me whether it was about our season or about personal  issues I might have been going through. Coach Ebener is a person that you’ll cherish forever as a coach AND as a friend.
-    image: "https://i.ibb.co/R6WQhYj/Mask-Group.png"
-    instagram:
-    twitter:
-    linkedin: 
-  - name: Mary Liesse
-    desc: Marathoner 
-    quote:  With her, she helped me become a much better athlete. She didn’t just make me a better athlete, though- she helped me become a better person and was ALWAYS there for me whether it was about our season or about personal  issues I might have been going through. Coach Ebener is a person that you’ll cherish forever as a coach AND as a friend.
-    image: "https://i.ibb.co/R6WQhYj/Mask-Group.png"
-    instagram:
-    twitter:
-    linkedin:
-   
+  - name: Lizzie H
+    desc: College Athlete
+    quote: Coach Ebener was one of the best coaches that I ever had. With her, she
+      helped me become a much better athlete. With tough love and with a diverse
+      training regiment, she always kept me on my toes. She didn’t just make me
+      a better athlete, though- she helped me become a better person and was
+      ALWAYS there for me whether it was about our season or about
+      personal  issues I might have been going through. Coach Ebener is a person
+      that you’ll cherish forever as a coach AND as a friend.
+    image: https://i.ibb.co/R6WQhYj/Mask-Group.png
+    instagram: .
+    twitter: .
+    linkedin: .
+  - name: Mary L
+    desc: Marathoner
+    quote: "I worked with Coach Ebener after having been running for years but never
+      reaching the goals I had wanted. Prior to working with Coach, I had run
+      three marathons with the goal of hitting a Boston qualifying time, with a
+      PR of 3:30:51. Always falling shy of the 3:30:00 time that I needed I
+      decided to work with Coach Ebener.   My experience with her was very
+      positive. I learned a lot about “how to train” not just going out for my
+      long runs. She started by asking me a variety of questions and having me
+      do some time trials to get a sense of where we would be starting together.
+      I really appreciated the custom workout plan that worked around my work
+      schedule.  Being a disciplined person it was never a problem for me to get
+      out the door. However not having the stress of coming up with my workouts
+      was fantastic. Coach was amazing about sending a text at least a couple
+      times a week to ask how I was feeling or how a specific workout felt. She
+      really used my feedback to adjust workouts if I was feeling a little under
+      the weather or it seemed like my body needed more recovery.  After going
+      through a 6 month training cycle together marathon day came and I hit a
+      new PR, 3:23:52. Cutting off almost 7minutes and hitting well under the
+      3:30:00 time I had been grasping for.  In summary Coach Ebener is an
+      amazing coach and even more amazing human. She cares about her athletes
+      and treats them as humans and not just a name. Understanding that things
+      come up and we may need to make adjustments but still pushing you in order
+      to help you meet your goals. "
+    image: https://i.ibb.co/R6WQhYj/Mask-Group.png
+    instagram: .
+    twitter: .
+    linkedin: .
+  - name: Juliana V
+    desc: College Athlete
+    quote: "I have been training with Coach Ebener for the past year and she has
+      strategically helped me develop my distance running. I was a new runner
+      and she was an awesome coach that gave me the confidence I needed to start
+      a new sport. Coach breaks everything down about the process of running
+      including the importance nutrition and recovery. She is a great person and
+      I would recommend her for any athlete looking to take their running to the
+      next level. "
+    image: https://i.ibb.co/R6WQhYj/Mask-Group.png
+    instagram: .
+    twitter: .
+    linkedin: .
+  - name: Saxon A
+    desc: College Athlete
+    quote: .
+    image: https://i.ibb.co/R6WQhYj/Mask-Group.png
+    instagram: .
+    twitter: .
+    linkedin: .
