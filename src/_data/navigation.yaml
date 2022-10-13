@@ -1,15 +1,17 @@
----
 items:
   - title: Meet Abby
-    url: "/MeetAbby"
-    desc: Over 10 years of coaching and 20 years of competing I have built a unique approach and mindset that I want to share with you... 
+    url: /MeetAbby
+    desc: Over 10 years of coaching and 20 years of competing, I have built a unique
+      approach and mindset that I want to share with you...
   - title: Train Together
-    url: "/TrainTogether"
-    desc: Running is a means of achieving a goal. Let me help you focus your approach, and shatter that goal...
+    url: /TrainTogether
+    desc: Let me help you focus your approach, and shatter that goal...
   - title: Testimonials
-    url: "/Testimonials"
-    desc: Trust is earned, meet some of the people I have worked with and see if their experiences reflect something you see in yourself...
+    url: /Testimonials
+    desc: Trust is earned, meet some of the people I have worked with and see if
+      their experiences reflect something you see in yourself...
   - title: Free Stuff!
     altTitle: The Fundamentals
-    url: "/TheFundamentals"
-    desc: Not everyone is looking for individualized help, take a look through my "Fundamentals" course and find that spark you were missing...
+    url: /TheFundamentals
+    desc: Not everyone is looking for individualized help, take a look through my
+      "Fundamentals" course to help ignite your spark...
